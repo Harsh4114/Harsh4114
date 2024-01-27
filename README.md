@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)](https://rishavchanda.io)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">"Embarking on my journey: Navigating Dart, coding dreams into reality."</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg">
