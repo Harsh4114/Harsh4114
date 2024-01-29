@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">"Embarking on my journey: Navigating Dart, coding dreams into reality."</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh4114&label=Profile%20views&color=0e75b6&style=flat" alt="harsh4114" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lankapati_4114" target="blank"><img src="https://img.shields.io/twitter/follow/lankapati_4114?logo=twitter&style=for-the-badge" alt="lankapati_4114" /></a> </p>
