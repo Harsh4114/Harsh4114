@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hkpatel747@gmail.com**
 
-- ⚡ Fun fact ** mind is the biggest and powerful CPU of the world , which is able to perform any task or to find solution **
+- ⚡ Fun fact **mind is the biggest and powerful CPU of the world , which is able to perform any task or to find solution**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
