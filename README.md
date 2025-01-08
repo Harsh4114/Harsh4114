@@ -111,9 +111,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh4114&show_icons=true&locale=en&theme=radical" alt="harsh4114" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh4114&theme=radical" alt="harsh4114" />
-</p>
+
 
 --- 
 <p align="left">This profile README was generated using <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">GitHub Profile README Generator</a>.</p>
