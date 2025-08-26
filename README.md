@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">"Embarking on my journey: Navigating Dart, coding dreams into reality."</h3>
 
-
-
-
-
-- 🔭 I’m currently working on **DevBattle**
-
 - 🌱 I’m currently learning **React, Firebase, Appwrite, Flutter (Dart)**
 
 - 💬 Ask me about **Firebase, Flutter**
@@ -29,14 +23,10 @@
 </p>
 
 ---
-
-<h3 align="center">🚀 Languages & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,dart,figma,firebase,flutter,git,html,js,nodejs,python,react,reactnative,ts,appwrite" />
+<h3 align="center">🚀 Languages & Tools I Use</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,html,css,react,java,python,mysql,git,github,vscode" />
 </p>
-
-
----
 
 <h3 align="left">Support:</h3>
 <p>
@@ -46,11 +36,6 @@
 </p>
 
 ---
-<h3 align="center">🚀 Languages & Tools I Use</h3>
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,html,css,react,java,python,mysql,git,github,vscode" />
-</p>
-
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=harsh4114&show_icons=true&locale=en&theme=radical" alt="harsh4114" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4114&layout=compact&theme=onedark" alt="Top Languages" />
@@ -58,9 +43,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh4114&theme=react-dark&hide_border=true&area=true" />
 </p>
-
-
-
 
 --- 
 <p align="left">This profile README was generated using <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">GitHub Profile README Generator</a>.</p>
