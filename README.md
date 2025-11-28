@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Firebase, Flutter**
 
-- 📫 How to reach me: **hkpatel747@gmail.com**
+- 📫 How to reach me: **harsh.flutter.dev@gmail.com**
 
 - ⚡ Fun fact: **The mind is the most powerful CPU in the world, capable of performing any task and finding solutions.**
 ---
