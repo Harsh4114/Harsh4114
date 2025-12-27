@@ -37,8 +37,6 @@
 
 ---
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh4114&show_icons=true&locale=en&theme=radical" alt="harsh4114" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4114&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh4114&theme=react-dark&hide_border=true&area=true" />
