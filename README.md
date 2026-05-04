@@ -1,48 +1,103 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">"Embarking on my journey: Navigating Dart, coding dreams into reality."</h3>
+<!-- PROFILE HEADER -->
 
-- 🌱 I’m currently learning **React, Firebase, Appwrite, Flutter (Dart)**
+<h1 align="center">Harsh 🚀</h1>
+<p align="center">
+  <b>Flutter Developer • Firebase Engineer • Future Entrepreneur</b>
+</p>
 
-- 💬 Ask me about **Firebase, Flutter**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&color=0FFFCF&center=true&vCenter=true&width=700&lines=Building+Real-World+Apps;Flutter+%2B+Firebase+Specialist;Startup+Focused+Mindset;Code.+Build.+Scale." />
+</p>
 
-- 📫 How to reach me: **harsh.flutter.dev@gmail.com**
-
-- ⚡ Fun fact: **The mind is the most powerful CPU in the world, capable of performing any task and finding solutions.**
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/lankapati_4114" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lankapati_4114" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/harsh-kumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-kumar" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_i_._am._" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_i_._am._" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh4114&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
-<h3 align="center">🚀 Languages & Tools I Use</h3>
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,html,css,react,java,python,mysql,git,github,vscode" />
-</p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/HarshKumar4114">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HarshKumar4114" />
-  </a>
+## ⚡ About Me
+
+```yaml
+name: Harsh
+role: Flutter Developer
+focus: Building scalable products & startups
+current_learning:
+  - Full Stack Development
+  - Advanced Flutter Architecture
+  - Backend Systems (Firebase, Appwrite)
+belief: "Execution > Ideas"
+```
+
+---
+
+## 🧠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,html,css,mysql,git,github,vscode&perline=6" />
 </p>
 
 ---
-<p >
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh4114&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh4114&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh4114&theme=react-dark&hide_border=true&area=true" />
 </p>
 
---- 
-<p align="left">This profile README was generated using <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">GitHub Profile README Generator</a>.</p>
-<p align="left">Repo generating link provided because always be honest with everyone.</p>
+---
 
+## 🚀 Current Focus
+
+* 📱 Production-ready Flutter Apps
+* 🔥 Firebase scalable architecture
+* 🌐 Web + Mobile integration
+* 💡 Startup product development
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-kumar">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/lankapati_4114">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://instagram.com/_i_._am._">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<p align="center">
+  📧 harsh.flutter.dev@gmail.com
+</p>
+
+---
+
+## 🧩 Philosophy
+
+<p align="center">
+  <i>"The mind is the most powerful CPU — execution defines performance."</i>
+</p>
+
+---
+
+## ☕ Support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/HarshKumar4114">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Building products that matter, not just code
+</p>
