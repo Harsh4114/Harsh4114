@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">Harsh 🚀</h1>
+<h1 align="center">Harsh</h1>
 <p align="center">
   <b>Flutter Developer • Firebase Engineer • Future Entrepreneur</b>
 </p>
@@ -13,9 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=harsh4114&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
----
 
-## ⚡ About Me
+
+## About Me
 
 ```yaml
 name: Harsh
@@ -28,20 +28,19 @@ current_learning:
 belief: "Execution > Ideas"
 ```
 
----
 
-## 🧠 Tech Arsenal
+## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,html,css,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,appwrite,git,github,vscode&perline=6" />
 </p>
 
----
 
-## 📊 GitHub Analytics
+
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh4114&show_icons=true&theme=tokyonight&hide_border=true" />
+
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh4114&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -49,21 +48,20 @@ belief: "Execution > Ideas"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh4114&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
 
-## 🚀 Current Focus
+
+## Current Focus
 
 * 📱 Production-ready Flutter Apps
 * 🔥 Firebase scalable architecture
 * 🌐 Web + Mobile integration
 * 💡 Startup product development
 
----
 
-## 🌐 Connect
+## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/harsh-kumar">
+  <a href="https://linkedin.com/in/harsh-flutter-dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/lankapati_4114">
@@ -75,28 +73,18 @@ belief: "Execution > Ideas"
 </p>
 
 <p align="center">
-  📧 harsh.flutter.dev@gmail.com
+  harsh.flutter.dev@gmail.com
 </p>
 
----
 
-## 🧩 Philosophy
+
+## Philosophy
 
 <p align="center">
   <i>"The mind is the most powerful CPU — execution defines performance."</i>
 </p>
 
----
 
-## ☕ Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/HarshKumar4114">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-  </a>
-</p>
-
----
 
 <p align="center">
   ⚡ Building products that matter, not just code
