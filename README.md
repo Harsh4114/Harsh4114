@@ -9,12 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&color=0FFFCF&center=true&vCenter=true&width=700&lines=Building+Real-World+Apps;Flutter+%2B+Firebase+Specialist;Startup+Focused+Mindset;Code.+Build.+Scale." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh4114&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
-
-
 ## About Me
 
 ```yaml
