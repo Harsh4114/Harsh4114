@@ -61,7 +61,7 @@ belief: "Execution > Ideas"
   <a href="https://twitter.com/lankapati_4114">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://instagram.com/_i_._am._">
+  <a href="https://instagram.com/harsh_4.11.4">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
