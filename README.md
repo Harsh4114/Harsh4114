@@ -26,7 +26,7 @@ belief: "Execution > Ideas"
 ## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,appwrite,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,appwrite,git,github,vscode,kafka,nodejs,express,redis&perline=6" />
 </p>
 
 
