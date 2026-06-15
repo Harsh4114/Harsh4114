@@ -38,9 +38,7 @@ belief: "Execution > Ideas"
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh4114&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh4114&theme=react-dark&hide_border=true&area=true" />
-</p>
+
 
 
 
